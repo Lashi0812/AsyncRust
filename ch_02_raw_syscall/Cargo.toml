@@ -1,0 +1,6 @@
+[package]
+name = "ch_02_raw_syscall"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
