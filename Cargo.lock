@@ -9,3 +9,7 @@ version = "0.1.0"
 [[package]]
 name = "ch_02_raw_syscall"
 version = "0.1.0"
+
+[[package]]
+name = "ch_03_normal_syscall"
+version = "0.1.0"

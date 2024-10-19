@@ -1,5 +1,5 @@
 [workspace]
 
-members = ["ch_01_os_threads", "ch_02_raw_syscall"]
+members = ["ch_01_os_threads", "ch_02_raw_syscall", "ch_03_normal_syscall"]
 
 resolver = "2"
